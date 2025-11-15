@@ -17,8 +17,8 @@ export default function BlogCard({
 
                 <div class="card-body">
                     <span class="tag">HTML & CSS</span>
-                    <p class="date">Публікація 10 Вересня 2025</p>
-                    <h2 class="title">Практична №3</h2>
+                    <p class="date">Публікація 15 Листопада 2025</p>
+                    <h2 class="title">Практична №9</h2>
                     <p class="description">
                         Мета практичної роботи полягає в тому, щоб налаштувати середовище
                         розробки
